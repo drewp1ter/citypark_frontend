@@ -48,7 +48,7 @@ class Menu extends React.Component {
         <span>{REACT_APP_DISCOUNT_TEXT}</span></h2>
         <h2>&nbsp;</h2>
         <h2>При заказе на сумму от 500 рублей доставка еды по Белореченску БЕСПЛАТНО.</h2>
-        <h2>Заказы принимаются с 10:30 до 00:30 по телефону: <a href="tel:+79183119791">8-918-311-97-91</a>.<br/>&nbsp;</h2>
+        <h2>Заказы принимаются с 10:00 до 23:00 по телефону: <a href="tel:+79183119791">8-918-311-97-91</a>.<br/>&nbsp;</h2>
         <h2>&nbsp;</h2>
         <h4>Доставка еды в Белореченске от ресторана City Park. <a href="tel:+79183119791">8-918-311-97-91</a>. <a target="_blank" rel="noopener noreferrer" href="https://cityparkvip.ru">www.cityparkvip.ru</a></h4>
         <p>&nbsp;</p>
