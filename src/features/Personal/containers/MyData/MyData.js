@@ -3,6 +3,7 @@ import { connect } from 'react-redux'
 import { bindActionCreators } from 'redux'
 import { Helmet } from 'react-helmet'
 import PhoneInput from 'react-phone-number-input/native'
+import flags from 'react-phone-number-input/flags'
 import 'react-phone-number-input/style.css'
 
 import { Breadcrumbs, SpinButton } from 'components'
@@ -79,7 +80,8 @@ class MyData extends React.Component {
             <label>Телефон</label>
             <PhoneInput
               onChange={phone => this.handleChange({ phone })}
-              countries={['RU']}
+              country="RU"
+              flags={flags}
               className="form-input"
               displayInitialValueAsLocalNumber={false}
               indicateInvalid={true}

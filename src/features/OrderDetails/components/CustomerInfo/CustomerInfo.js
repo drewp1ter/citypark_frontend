@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import PhoneInput from 'react-phone-number-input/native'
+import flags from 'react-phone-number-input/flags'
 import 'react-phone-number-input/style.css'
 
 const CustomerInfo = ({ order: { name, phone, email }, onChange, invalidFields }) => {
@@ -21,7 +22,8 @@ const CustomerInfo = ({ order: { name, phone, email }, onChange, invalidFields }
         <label>Контактный телефон</label>
         <PhoneInput
           onChange={phone => onChange({ phone })}
-          countries={['RU']}
+          country="RU"
+          flags={flags}
           className="form-input"
           displayInitialValueAsLocalNumber={false}
           indicateInvalid={true}
