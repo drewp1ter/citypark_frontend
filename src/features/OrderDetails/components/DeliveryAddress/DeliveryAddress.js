@@ -24,8 +24,15 @@ class DeliveryAddress extends Component {
     } else {
       settlements && onChange({ city: settlements.label, deliveryPrice: settlements.price })
       obtainingMethods && onChange({ delivery: obtainingMethods.value === 1 })
-      address && onChange({ address })
-      this.setState({ ...prop })
+      if (address) {
+        const foundSettlement = constants.SETTLEMENTS.find(settlement => settlement.label.toLowerCase().indexOf(address.settlement.toLowerCase()) !== -1)
+        if (foundSettlement) {
+          onChange({ city: foundSettlement.label, deliveryPrice: foundSettlement.price, address })
+          this.setState({ settlements: foundSettlement, address })
+        }
+      } else {
+        this.setState({ ...prop })
+      }
     }
   }
 
