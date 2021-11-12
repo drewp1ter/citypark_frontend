@@ -37,7 +37,6 @@ class DaData extends React.Component {
       case 1:
         this.setState({ query: suggestions[0].unrestricted_value })
         onChange({
-          settlement: suggestions[0].data.settlement,
           street: suggestions[0].data.street,
           house: suggestions[0].data.house,
           street_kladr_id: suggestions[0].data.street_kladr_id,
@@ -50,7 +49,6 @@ class DaData extends React.Component {
         } else {
           this.setState({ query: suggestions[0].unrestricted_value })
           onChange({
-            settlement: suggestions[0].data.settlement,
             street: suggestions[0].data.street,
             house: suggestions[0].data.house,
             street_kladr_id: suggestions[0].data.street_kladr_id,
@@ -176,7 +174,6 @@ class DaData extends React.Component {
         })
       if (onChange) {
         onChange({
-          settlement: suggestions[0].data.settlement,
           street: suggestions[index].data.street,
           house: suggestions[index].data.house,
           street_kladr_id: suggestions[index].data.street_kladr_id,
@@ -225,7 +222,6 @@ class DaData extends React.Component {
       this.setState({
         query: ''
       }, onChange({
-        settlement,
         street: '',
         house: '',
         street_kladr_id: '',
