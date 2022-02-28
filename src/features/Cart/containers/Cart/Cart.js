@@ -88,7 +88,7 @@ class Cart extends React.Component {
             : null
           }
           Сумма заказа: <span id="t_all_summ">{_cartTotal}</span>₽
-          <div id="skidka">С учетом скидки 10%</div>
+          {/* <div id="skidka">С учетом скидки 10%</div> */}
         </div>
         {
           REACT_APP_SHOPON === "true" ? 
