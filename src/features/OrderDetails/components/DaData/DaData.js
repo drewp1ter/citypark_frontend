@@ -138,7 +138,9 @@ class DaData extends React.Component {
             this.fetching = false
             this.skipValidation = false
             this.setState({
-              suggestions: payload.suggestions.map(suggestion => ({
+              suggestions: payload.suggestions
+              .filter(suggestion => suggestion.unrestricted_value.settlement ? settlement.toLowerCase().indexOf(suggestion.unrestricted_value.settlement.toLowerCase() >= 0) : true)
+              .filter(suggestion => suggestion.unrestricted_value.indexOf(fullQueryPrefix) >= 0).map(suggestion => ({
                 ...suggestion,
                 unrestricted_value: suggestion.unrestricted_value.replace(fullQueryPrefix, '').replace(/\d{6}.{2}/, '')
               })),
