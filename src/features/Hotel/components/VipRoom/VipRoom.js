@@ -28,7 +28,7 @@ const VipRoom = ({ rooms: {vip_room} }) =>
         />
         <a href="/tour/vip_1.html" target="_blank" className="tur_btn" style={{bottom: "5px", left: "5px"}}><span/></a>
       </div>
-      <div className="room_summ" style={{position: "relative"}}><span className="summ">5000</span> ₽/сутки</div>
+      <div className="room_summ" style={{position: "relative"}}><span className="summ">6000</span> ₽/сутки</div>
       <div className="room_empty" style={{position: "relative", float: "left", marginTop: "10px"}}>
         <div className="re_num">{ vip_room ? vip_room : null }</div>
         <div className="re_txt">{freeRoomsText(vip_room)}</div>
