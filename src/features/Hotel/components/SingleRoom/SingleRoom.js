@@ -28,7 +28,7 @@ const SingleRoom = ({ rooms: { single_rooms } }) =>
         />
         <a href="/tour/room_1.html" target="_blank" className="tur_btn" style={{bottom: "5px", left: "5px"}}><span/></a>
       </div>
-      <div className="room_summ" style={{position: "relative"}}><span className="summ">2500-3000</span> ₽/сутки</div>
+      <div className="room_summ" style={{position: "relative"}}><span className="summ">3000-3500</span> ₽/сутки</div>
       <div className="room_empty" style={{position: "relative", float: "left", marginTop: "10px"}}>
         <div className="re_num">{ single_rooms ? single_rooms : null }</div>
         <div className="re_txt">{freeRoomsText(single_rooms)}</div>
