@@ -16,21 +16,21 @@ const RoomsCatalog = ({ displayType }) => {
       { RoomItem({
         displayType,
         imageUrl: images.photo1,
-        cost: "2500-3000",
+        cost: "3000-3500",
         link: SINGLE_ROOM,
         description: "Одноместные номера с двуспальной кроватью."
       })}
       { RoomItem({
         displayType,
         imageUrl: images.photo2,
-        cost: "3000",
+        cost: "3500",
         link: DOUBLE_ROOM,
         description: "Двухместные номера с двумя односпальными кроватями или с двуспальной кроватью \"Евро\""
       })}
       { RoomItem({
         displayType,
         imageUrl: images.photo3,
-        cost: "5000",
+        cost: "6000",
         link: VIP_ROOM,
         description: "Двухкомнатный номер (гостиная + спальня) с балконом."
       })}

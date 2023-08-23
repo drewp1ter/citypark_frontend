@@ -266,7 +266,7 @@ export default () =>
             <p align="LEFT"><span>«Люкс»*</span></p>
           </td>
           <td width="50%">
-            <p align="CENTER"><span>5000</span></p>
+            <p align="CENTER"><span>6000</span></p>
           </td>
         </tr>
         <tr valign="TOP">
@@ -274,7 +274,7 @@ export default () =>
             <p align="LEFT"><span>«Первая категория»* одноместный с двуспальной кроватью</span></p>
           </td>
           <td width="50%">
-            <p align="CENTER"><span>2500</span></p>
+            <p align="CENTER"><span>3000</span></p>
           </td>
         </tr>
         <tr valign="TOP">
@@ -282,7 +282,7 @@ export default () =>
             <p align="LEFT"><span>«Первая категори»* одноместный с двуспальной кроватью и балконом</span></p>
           </td>
           <td width="50%">
-            <p align="CENTER"><span>3000</span></p>
+            <p align="CENTER"><span>3500</span></p>
             <p align="CENTER">&nbsp;</p>
           </td>
         </tr>
@@ -291,7 +291,7 @@ export default () =>
             <p align="LEFT"><span>«Первая категория»* двуместный с двумя односпальными кроватями с возможностью соединения</span></p>
           </td>
           <td width="50%">
-            <p align="CENTER"><span>3000</span></p>
+            <p align="CENTER"><span>3500</span></p>
           </td>
         </tr>
       </tbody>
