@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-const quickServices = ['facebook', 'vkontakte', 'odnoklassniki', 'twitter']
+const quickServices = ['vkontakte', 'odnoklassniki']
 const capitalize = (str) =>
   str.charAt(0).toUpperCase() + str.slice(1)
 

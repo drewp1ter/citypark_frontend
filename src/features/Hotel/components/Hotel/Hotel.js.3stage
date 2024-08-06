@@ -31,7 +31,7 @@ export default () =>
       ( с возможностью сдвига). Площадь 23-25 кв.м.&nbsp;<br/>202, 205 — двухместные номера с двуспальной кроватью евро. Площадь 23-25 кв.м.&nbsp;.</p>
     <p><strong><span style={{lineHeight: "1.5em"}}><br/></span></strong><span style={{lineHeight: "1.5em"}}>В номере 201 (одноместный с двуспальной кроватью) есть просторный балкон,&nbsp;</span><span style={{lineHeight: "1.5em"}}>выходящие на кроны многолетних парковых деревьев; <br/>здесь вы можете полной грудью насладиться&nbsp;чистейшим вечерним воздухом, сидя на&nbsp;плетеных стульях ручной работы.</span></p>
     <p><strong><span style={{lineHeight: "1.5em"}}>&nbsp;</span></strong></p>
-    <p><strong>Общая комплектация номеров:</strong><br/>•&nbsp;сплит-система;<br/>• Smart TV с функцией 3D;<br/>•&nbsp;сейф;<br/>•&nbsp;холодильник;<br/>•&nbsp;шкаф-гардероб;<br/>• прикроватные тумбы; <br/>•&nbsp;журнальный столик;<br/>•&nbsp;пуф;<br/>•&nbsp;комод;<br/>•&nbsp;внутренний
+    <p><strong>Общая комплектация номеров:</strong><br/>•&nbsp;сплит-система;<br/>• Smart TV;<br/>•&nbsp;сейф;<br/>•&nbsp;холодильник;<br/>•&nbsp;шкаф-гардероб;<br/>• прикроватные тумбы; <br/>•&nbsp;журнальный столик;<br/>•&nbsp;пуф;<br/>•&nbsp;комод;<br/>•&nbsp;внутренний
       телефон.
       <br/><br/><strong>Санузел:</strong> душевая кабинка, фен, туалетные принадлежности.</p>
     <p>&nbsp;</p>
@@ -245,7 +245,7 @@ export default () =>
     <p align="CENTER"><span><strong>Приложение № 1</strong></span></p>
     <p align="CENTER"><span>к информации об Исполнитель и о предоставляемых исполнителем гостиничных услугах</span></p>
     <p align="CENTER">&nbsp;</p>
-    <p align="CENTER"><span>Категории номеров и цены 2016г.</span></p>
+    <p align="CENTER"><span>Категории номеров и цены 2024г.</span></p>
     <table width="100%" border="1" cellSpacing="0" cellPadding="4">
       <colgroup>
         <col width="128*"/>

@@ -32,7 +32,7 @@ export default () =>
       Номер имеет расширенную комплектацию (ознакомиться).</p>
     <p><strong><span style={{ lineHeight: "1.5em" }}><br /></span></strong><span style={{ lineHeight: "1.5em" }}>В номерах 201 (одноместный с двуспальной кроватью) и 301 (VIP-номер, двухкомнатный) есть просторные балконы,&nbsp;</span><span style={{ lineHeight: "1.5em" }}>выходящие на кроны многолетних парковых деревьев; <br />здесь вы можете полной грудью насладиться&nbsp;чистейшим вечерним воздухом, сидя на&nbsp;плетеных стульях ручной работы.</span></p>
     <p><strong><span style={{ lineHeight: "1.5em" }}>&nbsp;</span></strong></p>
-    <p><strong>Общая комплектация номеров:</strong><br />•&nbsp;сплит-система;<br />• Smart TV с функцией 3D;<br />•&nbsp;сейф;<br />•&nbsp;холодильник;<br />•&nbsp;шкаф-гардероб;<br />• прикроватные тумбы; <br />•&nbsp;журнальный столик;<br />•&nbsp;пуф;<br />•&nbsp;комод;<br />•&nbsp;внутренний
+    <p><strong>Общая комплектация номеров:</strong><br />•&nbsp;сплит-система;<br />• Smart TV;<br />•&nbsp;сейф;<br />•&nbsp;холодильник;<br />•&nbsp;шкаф-гардероб;<br />• прикроватные тумбы; <br />•&nbsp;журнальный столик;<br />•&nbsp;пуф;<br />•&nbsp;комод;<br />•&nbsp;внутренний
       телефон.
       <br /><br /><strong>Санузел:</strong> душевая кабинка, фен, туалетные принадлежности.</p>
     <p>&nbsp;</p>
@@ -167,7 +167,7 @@ export default () =>
             </p>
             <p align="JUSTIFY"><span><span>В случае задержки выезда Потребителя плата за проживание взимается в следующем порядке</span><span>:</span></span>
             </p>
-            <p align="JUSTIFY"><span><span>-&nbsp;</span><span>не более</span><span>&nbsp;6&nbsp;</span><span>часов после расчетного часа</span><span>&nbsp;—&nbsp;</span><span>почасовая оплата</span><span>;(300 руб/час)</span></span>
+            <p align="JUSTIFY"><span><span>-&nbsp;</span><span>не более</span><span>&nbsp;6&nbsp;</span><span>часов после расчетного часа</span><span>&nbsp;—&nbsp;</span><span>почасовая оплата</span><span>;(400 руб/час)</span></span>
             </p>
             <p align="JUSTIFY"><span><span>-&nbsp;</span><span>от</span><span>&nbsp;6&nbsp;</span><span>до</span><span>&nbsp;12&nbsp;</span><span>часов после расчетного часа</span><span>&nbsp;—&nbsp;</span><span>плата за половину суток</span><span>;</span></span>
             </p>
@@ -246,7 +246,7 @@ export default () =>
     <p align="CENTER"><span><strong>Приложение № 1</strong></span></p>
     <p align="CENTER"><span>к информации об Исполнитель и о предоставляемых исполнителем гостиничных услугах</span></p>
     <p align="CENTER">&nbsp;</p>
-    <p align="CENTER"><span>Категории номеров и цены 2016г.</span></p>
+    <p align="CENTER"><span>Категории номеров и цены 2024г.</span></p>
     <table width="100%" border="1" cellSpacing="0" cellPadding="4">
       <colgroup>
         <col width="128*" />
@@ -297,7 +297,7 @@ export default () =>
       </tbody>
     </table>
     <p align="LEFT">&nbsp;</p>
-    <p align="LEFT"><span>* - согласно приложению к свидетельству о присвоениии категории № 550001647</span></p>
+    <p align="LEFT"><span>* - согласно приложению к свидетельству о присвоениии категории № 23/АА-165-2021/0091-2022</span></p>
     <p align="CENTER">&nbsp;</p>
     <p align="CENTER"><span><strong>Приложение № 2</strong></span></p>
     <p align="CENTER"><span>к информации об исполнителе и о предоставляемых исполнителем гостиничных услугах</span></p>
@@ -470,8 +470,8 @@ export default () =>
     <p />
     <p lang="en-US" align="LEFT">&nbsp;</p>
     <p lang="ru-RU" align="CENTER">&nbsp;</p>
-    <p lang="ru-RU" align="CENTER"><span>Заказ завтраков принимается до 01:00</span></p>
-    <p lang="en-US" align="CENTER"><span>Breakfast orders are taken until 01:00</span></p>
+    <p lang="ru-RU" align="CENTER"><span>Заказ завтраков принимается до 22:00</span></p>
+    <p lang="en-US" align="CENTER"><span>Breakfast orders are taken until 22:00</span></p>
     <p lang="ru-RU" align="CENTER"><span>Доставка еды в номер - 50 руб</span></p>
     <p lang="en-US" align="CENTER"><span>Delivery of food to the room - 50rub</span></p>
     <p align="RIGHT">&nbsp;</p>
