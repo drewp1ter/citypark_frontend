@@ -728,35 +728,35 @@ export default () =>
     <p align="LEFT"><span><span><strong>Порча &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Частичная порча</strong></span></span>
     </p>
     <p align="LEFT">&nbsp;</p>
-    <p align="LEFT"><span><span>Халат 2000руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 900руб</span></span>
+    <p align="LEFT"><span><span>Халат 2000руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 900руб</span></span>
     </p>
-    <p align="LEFT"><span><span>Покрывало 2000руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;700руб</span></span>
+    <p align="LEFT"><span><span>Покрывало 2000руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;700руб</span></span>
     </p>
     <p align="LEFT"><span><span>Одеяло 2100руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1000руб</span></span>
     </p>
-    <p align="LEFT"><span><span>Пододеяльник 2100руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 700руб</span></span>
+    <p align="LEFT"><span><span>Пододеяльник 2100руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 700руб</span></span>
     </p>
-    <p align="LEFT"><span><span>Подушка 900руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 500руб</span></span>
+    <p align="LEFT"><span><span>Подушка 900руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 500руб</span></span>
     </p>
-    <p align="LEFT"><span><span>Простынь 1200руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;400руб</span></span>
+    <p align="LEFT"><span><span>Простынь 1200руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 400руб</span></span>
     </p>
     <p align="LEFT"><span><span>Надматрассник 2000руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1000руб</span></span>
     </p>
-    <p align="LEFT"><span><span>Матрас 11000руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4000руб</span></span>
+    <p align="LEFT"><span><span>Матрас 11000руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4000руб</span></span>
     </p>
-    <p align="LEFT"><span><span>Кровать 10000руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;5000руб</span></span>
+    <p align="LEFT"><span><span>Кровать 10000руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5000руб</span></span>
     </p>
-    <p align="LEFT"><span><span>Изголовье кровати 5000руб &nbsp; &nbsp; 1700руб</span></span>
+    <p align="LEFT"><span><span>Изголовье кровати 5000руб &nbsp; &nbsp; &nbsp; 1700руб</span></span>
     </p>
-    <p align="LEFT"><span><span>Душевая кабина 20000руб &nbsp; &nbsp; &nbsp; 8000руб</span></span>
+    <p align="LEFT"><span><span>Душевая кабина 20000руб &nbsp; &nbsp; &nbsp; &nbsp; 8000руб</span></span>
     </p>
-    <p align="LEFT"><span><span>Шкаф 3000руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1000руб</span></span>
+    <p align="LEFT"><span><span>Шкаф 3000руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1000руб</span></span>
     </p>
-    <p align="LEFT"><span><span>Холодильник 10600руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3600руб</span></span>
+    <p align="LEFT"><span><span>Холодильник 10600руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3600руб</span></span>
     </p>
-    <p align="LEFT"><span><span>Телевизор 27500руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;10000руб</span></span>
+    <p align="LEFT"><span><span>Телевизор 27500руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;10000руб</span></span>
     </p>
-    <p align="LEFT"><span><span>Урна 500руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 500руб</span></span>
+    <p align="LEFT"><span><span>Урна 500руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 500руб</span></span>
     </p>
     <p align="LEFT"><span><span>Спец.уборка 1000руб &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1000руб</span></span>
     </p>
