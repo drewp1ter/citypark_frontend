@@ -533,19 +533,19 @@ export default () =>
           <td/><td>Стирка</td><td>Глажка</td>
         </tr>
         <tr>
-          <td>Футболка</td><td>50</td><td>50</td>
+          <td>Футболка</td><td>50</td><td>100</td>
         </tr> 
         <tr>
-          <td>Шорты</td><td>50</td><td>50</td>
+          <td>Шорты</td><td>50</td><td>100</td>
         </tr> 
         <tr>
-          <td>Рубашка</td><td>100</td><td>100</td>
+          <td>Рубашка</td><td>100</td><td>150</td>
         </tr> 
         <tr>
           <td>Джинсы</td><td>100</td><td>100</td>
         </tr> 
         <tr>
-          <td>Брюки</td><td>100</td><td>100</td>
+          <td>Брюки</td><td>100</td><td>150</td>
         </tr> 
         <tr>
           <td>Спортивные брюки</td><td>100</td><td>100</td>
@@ -764,7 +764,7 @@ export default () =>
     </p>
     <p align="LEFT"><span><span>&nbsp;</span></span>
     </p>
-    <p align="LEFT"><span><span>Занавески 2000руб</span></span>
+    <p align="LEFT"><span><span>Занавески 5000руб</span></span>
     </p>
     <p align="LEFT"><span><span>Шторы 3000руб</span></span>
     </p>
