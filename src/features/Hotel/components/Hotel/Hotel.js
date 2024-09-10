@@ -309,71 +309,115 @@ export default () =>
         <col width="600" />
       </colgroup>
       <tbody>
-        <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Горячий ключ 0,5 л.&quot;}">Горячий ключ 0,5</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;100 руб&quot;}">100 руб</td>
-        </tr>
-        <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Лимонад Натахтари 0,5 л.&quot;}">Лимонад Натахтари 0,5</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;190 руб&quot;}">190 руб</td>
-        </tr>
-        <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Нарзан 0,5 л.&quot;}">Нарзан 0,5</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;140 руб&quot;}">140 руб</td>
-        </tr>
-        <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Добрый Кола (ПЭТ) 0,5 л.&quot;}">Добрый Кола (ПЭТ) 0,5</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;200 руб&quot;}">200 руб</td>
-        </tr>
-        <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Майкопская 0,5 л.&quot;}">Майкопская 0,5</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;120 руб&quot;}">120 руб</td>
-        </tr>
-        <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Добрый Лимон-Лайм (ПЭТ) 0,5 л.&quot;}">Добрый Лимон-Лайм (ПЭТ) 0,5</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;200 руб&quot;}">200 руб</td>
-        </tr>
-        <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Добрый Лимон-Лайм (ж/б) 0,33 л.&quot;}">Добрый Лимон-Лайм (ж/б) 0,33</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;150 руб&quot;}">150 руб</td>
-        </tr>
-        <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Добрый Апельсин (ПЭТ) 0,5 л.&quot;}">Добрый Апельсин (ПЭТ) 0,5</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;200 руб&quot;}">200 руб</td>
-        </tr>
-        <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Добрый Апельсин (ж/б) 0,33 л.&quot;}">Добрый Апельсин (ж/б) 0,33</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;150 руб&quot;}">150 руб</td>
-        </tr>
-        <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Круассан «7 days» 65 гр&quot;}">Круассан «7 days» 65 гр</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;80 руб&quot;}">80 руб</td>
-        </tr>
-        <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Печенье Бисквитное «Choco Pie»&quot;}">Печенье Бисквитное «Choco Pie»</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;50 руб&quot;}">50 руб</td>
-        </tr>
-        <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Чай Гринфилд (черный/зеленый)&quot;}">Чай Гринфилд (черный/зеленый)</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;50 руб&quot;}">50 руб</td>
-        </tr>
-        <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Кофе натуральный&quot;}">Кофе натуральный</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;60 руб&quot;}">60 руб</td>
-        </tr>
-        <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Молоко 0,2 л.&quot;}">Молоко 0,2</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;50 руб&quot;}">50 руб</td>
-        </tr>
-        <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Сок в ассортименте 0,3 л.&quot;}">Сок в ассортименте 0,3</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;120 руб&quot;}">120 руб</td>
-        </tr>
-        <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ледяная Жемчужина 0,5 л.&quot;}">Ледяная Жемчужина 0,5</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;140 руб&quot;}">140 руб</td>
-        </tr>
-      </tbody>
+         <tr>
+           <td>Яйца вареные (2 шт)</td><td>30 руб</td>
+         </tr>
+         <tr>
+           <td>Boiled eggs (2 pieces)</td><td>30 rub</td>
+         </tr>
+         <tr>
+           <td>Омлет (130гр)</td><td>200 руб</td>
+         </tr>
+         <tr>
+           <td>Omellete (130g)</td><td>200 rub</td>
+         </tr>
+         <tr>
+           <td>Омлет с копченостями (150гр)</td><td>220 руб</td>
+         </tr>
+         <tr>
+           <td>Omellete with Smoked Meat (150g)</td><td>220 rub</td>
+         </tr>
+         <tr>
+           <td>Омлет с сыром (150гр)</td><td>220 руб</td>
+         </tr>
+         <tr>
+           <td>Omellete with Cheese (150g)</td><td>220 rub</td>
+         </tr>
+         <tr>
+           <td>Овсяная каша с фруктами (100гр)</td><td>50 руб</td>
+         </tr>
+         <tr>
+           <td>Oatmeal with Fruits</td><td>50 rub</td>
+         </tr>
+         <tr>
+           <td>Салат свекольный (свекла, яблоко, орех, масло растительное)</td><td>80 руб</td>
+         </tr>
+         <tr>
+           <td>Beetroot salad (beetroot,vegetable oil, walnut, apple)</td><td>80 rub</td>
+         </tr>
+         <tr>
+           <td>Салат с капустой (капуста, морковь, черри, масло оливковое, зелень)</td><td>100 руб</td>
+         </tr>
+         <tr>
+           <td>Salad with cabbage (cabbage, carrots, tomato, olive oil, parsley)</td><td>100 rub</td>
+         </tr>
+         <tr>
+           <td>Круассан с маслом и сыром (120гр)</td><td>160 руб</td>
+         </tr>
+         <tr>
+           <td>Croissant with butter and cheese (120g)</td><td>160 rub</td>
+         </tr>
+         <tr>
+           <td>Круассан с маслом (110гр)</td><td>150 руб</td>
+         </tr>
+         <tr>
+           <td>Croissant with butter (110g)</td><td>150 rub</td>
+         </tr>
+         <tr>
+           <td>Круассан c семгой и маслом (120гр)</td><td>250 руб</td>
+         </tr>
+         <tr>
+           <td>Croissant with salmon and butter (120g)</td><td>250 rub</td>
+         </tr>
+         <tr>
+           <td>Круассан c говядиной и сыром (140гр)</td><td>190 руб</td>
+         </tr>
+         <tr>
+           <td>Croissant with beef and cheese (140g)</td><td>190 rub</td>
+         </tr>
+         <tr>
+           <td>Блины с медом (100гр)</td><td>100 руб</td>
+         </tr>
+         <tr>
+           <td>Blintz with Honey (100g)</td><td>100 rub</td>
+         </tr>
+         <tr>
+           <td>Блины со сгущенкой (100гр)</td><td>100 руб</td>
+         </tr>
+         <tr>
+           <td>Blintz with Condensed Milk (100g)</td><td>100 rub</td>
+         </tr>
+         <tr>
+           <td>Штрудель (яблочный)</td><td>350 руб</td>
+         </tr>
+         <tr>
+           <td>Strudel (apple)</td><td>350 rub</td>
+         </tr>
+         <tr>
+           <td>Штрудель (ягодный,творожный)</td><td>380 руб</td>
+         </tr>
+         <tr>
+           <td>Strudel (berry, cottage)</td><td>380 rub</td>
+         </tr>
+         <tr>
+           <td>Сырники</td><td>250 руб</td>
+         </tr>
+         <tr>
+           <td>Syrniki</td><td>250 rub</td>
+         </tr>
+         <tr>
+           <td>Фрукты в ассортименте (100 гр)</td><td>70 руб</td>
+         </tr>
+         <tr>
+           <td>Fruit Assortment (100g)</td><td>70 rub</td>
+         </tr>
+         <tr>
+           <td>Хлеб белый, черный (1шт)</td><td>15 руб</td>
+         </tr>
+         <tr>
+           <td>Black, white bread (per 1 piece)</td><td>15 rub</td>
+         </tr>
+    </tbody>
     </table>
     <p />
     <p lang="en-US" align="LEFT">&nbsp;</p>
