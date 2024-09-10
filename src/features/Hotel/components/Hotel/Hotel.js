@@ -517,45 +517,8 @@ export default () =>
     <p align="CENTER"><span><strong>Приложение № 4</strong></span></p>
     <p align="CENTER"><span>к информации об исполнителе и о предоставляемых исполнителем гостиничных услугах</span></p>
     <p align="CENTER">&nbsp;</p>
-    <p align="CENTER"><span><span>Прейскурант цен на услуги прачечной</span></span>
+    <p align="CENTER"><span><span>В гостиничном комплексе присутствуют услуги прачечной и глажки за дополнительную плату.<br/> Актуальный прайс цен уточняйте у администраторов гостиницы.</span></span>
     </p>
-    <p align="LEFT">&nbsp;</p>
-    <p align="LEFT">&nbsp;</p>
-    <p align="LEFT">&nbsp;</p>
-    <p align="LEFT">&nbsp;</p>
-    <table dir="ltr" border="1" cellSpacing="0" cellPadding="0">
-      <colgroup>
-        <col width="254"/>
-        <col width="100"/>
-      </colgroup>
-      <tbody>
-        <tr>
-          <td/><td>Стирка</td><td>Глажка</td>
-        </tr>
-        <tr>
-          <td>Футболка</td><td>50</td><td>100</td>
-        </tr> 
-        <tr>
-          <td>Шорты</td><td>50</td><td>100</td>
-        </tr> 
-        <tr>
-          <td>Рубашка</td><td>100</td><td>150</td>
-        </tr> 
-        <tr>
-          <td>Джинсы</td><td>100</td><td>100</td>
-        </tr> 
-        <tr>
-          <td>Брюки</td><td>100</td><td>150</td>
-        </tr> 
-        <tr>
-          <td>Спортивные брюки</td><td>100</td><td>100</td>
-        </tr> 
-      </tbody>
-    </table>    
-    <p align="LEFT"><span><span>&nbsp;</span></span>
-    </p>
-    <p align="LEFT">&nbsp;</p>
-    <p align="RIGHT"><span><span>Утверждаю _____________ген.директор Попов Д.А</span></span><span>.</span></p>
     <p align="RIGHT"><span>&nbsp;</span></p>
     <p align="RIGHT"><span>&nbsp;</span></p>
     <p align="CENTER"><span><span><strong>Приложение № 5</strong></span></span>
