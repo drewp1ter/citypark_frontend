@@ -500,7 +500,7 @@ export default () =>
         </tr>
         <tr>
           <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Сок в ассортименте 0,3 л.&quot;}">Сок в ассортименте 0,3</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;120 руб&quot;}">120 руб</td>
+          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;140 руб&quot;}">140 руб</td>
         </tr>
         <tr>
           <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ледяная Жемчужина 0,5 л.&quot;}">Ледяная Жемчужина 0,5</td>
