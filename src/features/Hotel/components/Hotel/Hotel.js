@@ -167,7 +167,7 @@ export default () =>
             </p>
             <p align="JUSTIFY"><span><span>В случае задержки выезда Потребителя плата за проживание взимается в следующем порядке</span><span>:</span></span>
             </p>
-            <p align="JUSTIFY"><span><span>-&nbsp;</span><span>не более</span><span>&nbsp;6&nbsp;</span><span>часов после расчетного часа</span><span>&nbsp;—&nbsp;</span><span>почасовая оплата</span><span>;(400 руб/час)</span></span>
+            <p align="JUSTIFY"><span><span>-&nbsp;</span><span>не более</span><span>&nbsp;6&nbsp;</span><span>часов после расчетного часа</span><span>&nbsp;—&nbsp;</span><span>почасовая оплата</span><span>;(500 руб/час)</span></span>
             </p>
             <p align="JUSTIFY"><span><span>-&nbsp;</span><span>от</span><span>&nbsp;6&nbsp;</span><span>до</span><span>&nbsp;12&nbsp;</span><span>часов после расчетного часа</span><span>&nbsp;—&nbsp;</span><span>плата за половину суток</span><span>;</span></span>
             </p>
@@ -266,7 +266,7 @@ export default () =>
             <p align="LEFT"><span>«Люкс»*</span></p>
           </td>
           <td width="50%">
-            <p align="CENTER"><span>6000</span></p>
+            <p align="CENTER"><span>7000</span></p>
           </td>
         </tr>
         <tr valign="TOP">
@@ -274,7 +274,7 @@ export default () =>
             <p align="LEFT"><span>«Первая категория»* одноместный с двуспальной кроватью</span></p>
           </td>
           <td width="50%">
-            <p align="CENTER"><span>3000</span></p>
+            <p align="CENTER"><span>3500</span></p>
           </td>
         </tr>
         <tr valign="TOP">
@@ -282,7 +282,7 @@ export default () =>
             <p align="LEFT"><span>«Первая категори»* одноместный с двуспальной кроватью и балконом</span></p>
           </td>
           <td width="50%">
-            <p align="CENTER"><span>3500</span></p>
+            <p align="CENTER"><span>4000</span></p>
             <p align="CENTER">&nbsp;</p>
           </td>
         </tr>
@@ -291,7 +291,7 @@ export default () =>
             <p align="LEFT"><span>«Первая категория»* двуместный с двумя односпальными кроватями с возможностью соединения</span></p>
           </td>
           <td width="50%">
-            <p align="CENTER"><span>3500</span></p>
+            <p align="CENTER"><span>4000</span></p>
           </td>
         </tr>
       </tbody>
