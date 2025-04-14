@@ -185,7 +185,7 @@ export default () =>
             <p align="LEFT"><span>1)Завтрак согласно приложению №2</span></p>
             <p align="LEFT"><span>2)Лоби -бар согласно приложению№3</span></p>
             <p align="LEFT"><span>3)Услуги прачечной согласно приложению №4</span></p>
-            <p align="LEFT"><span>4)Доставка в номер — 50 руб.</span></p>
+            <p align="LEFT"><span>4)Доставка в номер — 100 руб.</span></p>
           </td>
         </tr>
         <tr valign="TOP">
