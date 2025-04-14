@@ -424,8 +424,8 @@ export default () =>
     <p lang="ru-RU" align="CENTER">&nbsp;</p>
     <p lang="ru-RU" align="CENTER"><span>Заказ завтраков принимается до 22:00</span></p>
     <p lang="en-US" align="CENTER"><span>Breakfast orders are taken until 22:00</span></p>
-    <p lang="ru-RU" align="CENTER"><span>Доставка еды в номер - 50 руб</span></p>
-    <p lang="en-US" align="CENTER"><span>Delivery of food to the room - 50rub</span></p>
+    <p lang="ru-RU" align="CENTER"><span>Доставка еды в номер - 100 руб</span></p>
+    <p lang="en-US" align="CENTER"><span>Delivery of food to the room - 100 rub</span></p>
     <p align="RIGHT">&nbsp;</p>
     <p align="RIGHT">&nbsp;</p>
     <p align="RIGHT">&nbsp;</p>
@@ -510,8 +510,8 @@ export default () =>
     </table>
     <p align="LEFT"><span><strong>&nbsp;</strong></span></p>
     <p align="LEFT">&nbsp;</p>
-    <p align="LEFT"><span><strong>Доставка в номер — 50 рублей</strong></span></p>
-    <p align="LEFT"><strong>Delivery to the room -50rub</strong></p>
+    <p align="LEFT"><span><strong>Доставка в номер — 100 рублей</strong></span></p>
+    <p align="LEFT"><strong>Delivery to the room - 100 rub</strong></p>
     <p align="RIGHT">&nbsp;</p>
     <p align="RIGHT">&nbsp;</p>
     <p align="CENTER"><span><strong>Приложение № 4</strong></span></p>
