@@ -17,6 +17,19 @@ export default () =>
       title={TITLE_PREFIX + DOCUMENTATION.TITLE}
       image={baseUrl() + commonImages.sitePreview}
     />
+    <p>Выписка из единого реестра объектов классификации в сфере туристической индустрии</p>
+    <PhotoGallery
+      items={[
+        {
+          thumb: images.report1t,
+          image: images.report1
+        },
+        {
+          thumb: images.report2t,
+          image: images.report2
+        }
+      ]}
+    />
   	<p>Политика ООО "Олимп" в отношении обработки персональных данных&nbsp;</p>
     <PhotoGallery
       items={[

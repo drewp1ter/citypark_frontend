@@ -14,5 +14,9 @@ import t5 from './t5.jpg'
 import t6 from './t6.jpg'
 import t7 from './t7.jpg'
 import t8 from './t8.jpg'
+import report1 from './report_1.jpg'
+import report1t from './report_1t.jpg'
+import report2 from './report_2.jpg'
+import report2t from './report_2t.jpg'
 
-export { f1, f2, f3, f4, f5, f6, f7, f8, t1, t2, t3, t4, t5, t6, t7, t8 }
+export { f1, f2, f3, f4, f5, f6, f7, f8, t1, t2, t3, t4, t5, t6, t7, t8, report1, report1t, report2, report2t }
