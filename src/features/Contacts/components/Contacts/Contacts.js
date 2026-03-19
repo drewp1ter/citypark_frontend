@@ -17,7 +17,7 @@ export default () =>
       title={TITLE_PREFIX + CONTACTS.TITLE}
       image={baseUrl() + commonImages.citypark}
     />
-		<h1>Ресторанно-гостиничный комплекс City Park</h1>
+		<h1>Ресторанно-гостиничный комплекс Сити Парк</h1>
 	  <h1><img src={images.fasad} alt="fasad" width="450" height="300" /></h1>
 	  <h1>Адрес:</h1>
 	  <h3>352630, Краснодарский край, г. Белореченск, ул. Гоголя, 61.</h3>

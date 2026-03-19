@@ -10,18 +10,16 @@
 .logo {
   position: absolute;
   display: block;
-  width: 480px;
+  width: 608px;
   height: 430px;
-  margin-left: 50%;
-  left: -240px;
-  top: 290px;
-  margin-top: -215px;
+  left: 50%;
+  top: 100px;
+  transform: translateX(-50%);
 }
 
 @media screen and (max-width: 800px) {
   .logo {
-    margin-top: 0;
-    top: 0;
+    top: 10px;
   }
   .part {
     width: 100%;

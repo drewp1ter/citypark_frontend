@@ -1,1 +1,1 @@
-export const TITLE_PREFIX = 'РГК «City Park» - '
+export const TITLE_PREFIX = 'РГК «Сити Парк» - '

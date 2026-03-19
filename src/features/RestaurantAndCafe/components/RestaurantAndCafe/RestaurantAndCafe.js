@@ -64,7 +64,7 @@ export default () =>
         <br/>
       </span>
       <span style={{lineHeight: "1.5em"}}>
-        Здесь в любое время суток царит&nbsp;романтическая вечерняя атмосфера&nbsp;City Park.
+        Здесь в любое время суток царит&nbsp;романтическая вечерняя атмосфера&nbsp;Сити Парк.
       </span>
     </p>
     <p className="justifyleft">

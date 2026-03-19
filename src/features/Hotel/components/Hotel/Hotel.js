@@ -17,7 +17,7 @@ export default () =>
       title={TITLE_PREFIX + HOTEL_MAIN.TITLE}
       image={baseUrl() + images.citypark}
     />
-    <h2>Отель-люкс City Park — это в<span style={{ lineHeight: "1.5em" }}>ысококлассная гостиница в Белореченске с номерами&nbsp;</span><span style={{ lineHeight: "1.5em" }}>различных категорий.</span></h2>
+    <h2>Отель-люкс Сити Парк — это в<span style={{ lineHeight: "1.5em" }}>ысококлассная гостиница в Белореченске с номерами&nbsp;</span><span style={{ lineHeight: "1.5em" }}>различных категорий.</span></h2>
     <p><strong><span style={{ lineHeight: "1.5em" }}>В гостинице 12 номеров площадью от 19 до 45 м2, все они соответствуют категории "Люкс". <br /></span></strong></p>
     <h2>
       <span style={{ lineHeight: "1.5em" }}>
@@ -36,16 +36,16 @@ export default () =>
       телефон.
       <br /><br /><strong>Санузел:</strong> душевая кабинка, фен, туалетные принадлежности.</p>
     <p>&nbsp;</p>
-    <p><strong style={{ lineHeight: "1.5em" }}><span style={{ lineHeight: "1.5em" }}>На всей территории РГК City Park доступен бесплатный&nbsp;Wi-fi&nbsp;</span></strong></p>
+    <p><strong style={{ lineHeight: "1.5em" }}><span style={{ lineHeight: "1.5em" }}>На всей территории РГК Сити Парк доступен бесплатный&nbsp;Wi-fi&nbsp;</span></strong></p>
     <h3>Дополнительные услуги:</h3>
-    <p>• заказ завтрака в номер (стоимость завтрака не входит в стоимость номера);<br />•&nbsp;заказ еды из ресторана City Park;<br />•&nbsp;детская кровать до 3-х лет.<br />•&nbsp;услуги прачечной и глажки (платно).</p>
+    <p>• заказ завтрака в номер (стоимость завтрака не входит в стоимость номера);<br />•&nbsp;заказ еды из ресторана Сити Парк;<br />•&nbsp;детская кровать до 3-х лет.<br />•&nbsp;услуги прачечной и глажки (платно).</p>
     <p>&nbsp;</p>
     <h3>Правила размещения:</h3>
     <p>Номер VIP – не более четырех гостей, в остальные номера – не более двух.<br />Заселение производится по паспорту.<br />Заселение в гостиницу несовершеннолетних граждан, не достигших 14-летнего возраста, осуществляется на основании документов, удостоверяющих личность находящихся вместе с ними родителей (усыновителей, опекунов), сопровождающего лица (лиц), при условии предоставления таким сопровождающим лицом (лицами) нотариально заверенного согласия законных представителей (одного из них), а также свидетельств о рождении этих несовершеннолетних.  <br />Оплатить можно как наличными, так и банковской картой.<br />За бронирование плата не взимается.<br />
-      <strong style={{ lineHeight: "1.5em" }}>Заезд с животными запрещен.<br /></strong><strong style={{ lineHeight: "1.5em" }}>Курение в помещениях РГК City Park запрещено, штраф 2000 руб. Место для курения есть на каждом этаже.</strong></p>
+      <strong style={{ lineHeight: "1.5em" }}>Заезд с животными запрещен.<br /></strong><strong style={{ lineHeight: "1.5em" }}>Курение в помещениях РГК Сити Парк запрещено, штраф 2000 руб. Место для курения есть на каждом этаже.</strong></p>
     <p>&nbsp;</p>
-    <h4>Забронировать номер в гостинице City Park можно по телефонам: +7-918-311-97-10, 8-800-100-24-41 (звонок по России бесплатный) или на сайте РГК City Park&nbsp;
-    <a title="City Park Белореченск" href="https://cityparkvip.ru/" target="_blank" rel="noopener noreferrer">www.cityparkvip.ru</a>&nbsp;в разделе <Link to={CATALOG.URL}>"Каталог номеров"</Link>.</h4>
+    <h4>Забронировать номер в гостинице Сити Парк можно по телефонам: +7-918-311-97-10, 8-800-100-24-41 (звонок по России бесплатный) или на сайте РГК Сити Парк&nbsp;
+    <a title="Сити Парк Белореченск" href="https://cityparkvip.ru/" target="_blank" rel="noopener noreferrer">www.cityparkvip.ru</a>&nbsp;в разделе <Link to={CATALOG.URL}>"Каталог номеров"</Link>.</h4>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <p align="CENTER"><span>ИНФОРМАЦИЯ ОБ ИСПОЛНИТЕЛЕ И О ПРЕДОСТАВЛЯЕМЫХ ИСПОЛНИТЕЛЕМ ГОСТИНИЧНЫХ УСЛУГАХ</span></p>
@@ -310,34 +310,34 @@ export default () =>
       </colgroup>
       <tbody>
          <tr>
-           <td>Яйца вареные (2 шт)</td><td>50 руб</td>
+           <td>Яйца вареные (2 шт)</td><td>60 руб</td>
          </tr>
          <tr>
-           <td>Boiled eggs (2 pieces)</td><td>50 rub</td>
+           <td>Boiled eggs (2 pieces)</td><td>60 rub</td>
          </tr>
          <tr>
-           <td>Омлет (130гр)</td><td>200 руб</td>
+           <td>Омлет (130гр)</td><td>250 руб</td>
          </tr>
          <tr>
-           <td>Omellete (130g)</td><td>200 rub</td>
+           <td>Omellete (130g)</td><td>250 rub</td>
          </tr>
          <tr>
-           <td>Омлет с копченостями (150гр)</td><td>220 руб</td>
+           <td>Омлет с копченостями (150гр)</td><td>300 руб</td>
          </tr>
          <tr>
-           <td>Omellete with Smoked Meat (150g)</td><td>220 rub</td>
+           <td>Omellete with Smoked Meat (150g)</td><td>300 rub</td>
          </tr>
          <tr>
-           <td>Омлет с сыром (150гр)</td><td>220 руб</td>
+           <td>Омлет с сыром (150гр)</td><td>300 руб</td>
          </tr>
          <tr>
-           <td>Omellete with Cheese (150g)</td><td>220 rub</td>
+           <td>Omellete with Cheese (150g)</td><td>300 rub</td>
          </tr>
          <tr>
-           <td>Овсяная каша с фруктами (100гр)</td><td>50 руб</td>
+           <td>Овсяная каша с фруктами (100гр)</td><td>80 руб</td>
          </tr>
          <tr>
-           <td>Oatmeal with Fruits</td><td>50 rub</td>
+           <td>Oatmeal with Fruits</td><td>80 rub</td>
          </tr>
          <tr>
            <td>Салат свекольный (свекла, яблоко, орех, масло растительное)</td><td>80 руб</td>
@@ -352,70 +352,76 @@ export default () =>
            <td>Salad with cabbage (cabbage, carrots, tomato, olive oil, parsley)</td><td>100 rub</td>
          </tr>
          <tr>
-           <td>Круассан с маслом и сыром (120гр)</td><td>160 руб</td>
+           <td>Круассан с маслом и сыром (120гр)</td><td>240 руб</td>
          </tr>
          <tr>
-           <td>Croissant with butter and cheese (120g)</td><td>160 rub</td>
+           <td>Croissant with butter and cheese (120g)</td><td>240 rub</td>
          </tr>
          <tr>
-           <td>Круассан с маслом (110гр)</td><td>150 руб</td>
+           <td>Круассан с маслом (110гр)</td><td>200 руб</td>
          </tr>
          <tr>
-           <td>Croissant with butter (110g)</td><td>150 rub</td>
+           <td>Croissant with butter (110g)</td><td>200 rub</td>
          </tr>
          <tr>
-           <td>Круассан c семгой и маслом (120гр)</td><td>250 руб</td>
+           <td>Круассан c семгой и маслом (120гр)</td><td>350 руб</td>
          </tr>
          <tr>
-           <td>Croissant with salmon and butter (120g)</td><td>250 rub</td>
+           <td>Croissant with salmon and butter (120g)</td><td>350 rub</td>
          </tr>
          <tr>
-           <td>Круассан c говядиной и сыром (140гр)</td><td>190 руб</td>
+           <td>Круассан c говядиной и сыром (140гр)</td><td>300 руб</td>
          </tr>
          <tr>
-           <td>Croissant with beef and cheese (140g)</td><td>190 rub</td>
+           <td>Croissant with beef and cheese (140g)</td><td>300 rub</td>
          </tr>
          <tr>
-           <td>Блины с медом (100гр)</td><td>150 руб</td>
+           <td>Блины фаршированные творогом (2 шт)</td><td>200 руб</td>
          </tr>
          <tr>
-           <td>Blintz with Honey (100g)</td><td>150 rub</td>
+           <td>Blintz with Cottage Cheese Filling (2 pc)</td><td>200 rub</td>
          </tr>
          <tr>
-           <td>Блины со сгущенкой (100гр)</td><td>150 руб</td>
+           <td>Блины с топпингом (100гр)</td><td>200 руб</td>
          </tr>
          <tr>
-           <td>Blintz with Condensed Milk (100g)</td><td>150 rub</td>
+           <td>Blintz with Topping (100g)</td><td>200 rub</td>
          </tr>
          <tr>
-           <td>Штрудель (яблочный)</td><td>350 руб</td>
+           <td>Блины с медом (100гр)</td><td>200 руб</td>
          </tr>
          <tr>
-           <td>Strudel (apple)</td><td>350 rub</td>
+           <td>Blintz with Honey (100g)</td><td>200 rub</td>
          </tr>
          <tr>
-           <td>Штрудель (ягодный,творожный)</td><td>380 руб</td>
+           <td>Блины со сгущенкой (100гр)</td><td>200 руб</td>
          </tr>
          <tr>
-           <td>Strudel (berry, cottage)</td><td>380 rub</td>
+           <td>Blintz with Condensed Milk (100g)</td><td>200 rub</td>
          </tr>
          <tr>
-           <td>Сырники</td><td>250 руб</td>
+           <td>Штрудель (яблочный)</td><td>400 руб</td>
          </tr>
          <tr>
-           <td>Syrniki</td><td>250 rub</td>
+           <td>Strudel (apple)</td><td>400 rub</td>
          </tr>
          <tr>
-           <td>Фрукты в ассортименте (100 гр)</td><td>70 руб</td>
+           <td>Штрудель (ягодный,творожный)</td><td>450 руб</td>
          </tr>
          <tr>
-           <td>Fruit Assortment (100g)</td><td>70 rub</td>
+           <td>Strudel (berry, cottage)</td><td>450 rub</td>
          </tr>
          <tr>
-           <td>Хлеб белый, черный (1шт)</td><td>15 руб</td>
+           <td>Сырники</td><td>300 руб</td>
          </tr>
          <tr>
-           <td>Black, white bread (per 1 piece)</td><td>15 rub</td>
+           <td>Syrniki</td><td>300 rub</td>
+         </tr>
+         <tr>
+           <td>Хлеб белый, черный (1шт)</td><td>20 руб</td>
+         </tr>
+         <tr>
+           <td>Black, white bread (per 1 piece)</td><td>20 rub</td>
          </tr>
     </tbody>
     </table>
@@ -443,12 +449,8 @@ export default () =>
       </colgroup>
       <tbody>
         <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Горячий ключ 0,5 л.&quot;}">Горячий ключ 0,5</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;100 руб&quot;}">100 руб</td>
-        </tr>
-      <tr>
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Лимонад Натахтари 0,5 л.&quot;}">Лимонад Натахтари 0,5</td>
-    <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;190 руб&quot;}">190 руб</td>
+          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Лимонад Натахтари 0,5 л.&quot;}">Лимонад 0,5</td>
+          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;190 руб&quot;}">230 руб</td>
         </tr>
         <tr>
           <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Нарзан 0,5 л.&quot;}">Нарзан 0,5</td>
@@ -456,31 +458,23 @@ export default () =>
         </tr>
         <tr>
           <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Добрый Кола (ПЭТ) 0,5 л.&quot;}">Добрый Кола (ПЭТ) 0,5</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;200 руб&quot;}">200 руб</td>
+          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;200 руб&quot;}">150 руб</td>
         </tr>
         <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Майкопская 0,5 л.&quot;}">Майкопская 0,5</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;120 руб&quot;}">120 руб</td>
+          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Майкопская 0,5 л.&quot;}">Оштен (Майкопская) 0,5</td>
+          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;120 руб&quot;}">130 руб</td>
         </tr>
         <tr>
           <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Добрый Лимон-Лайм (ПЭТ) 0,5 л.&quot;}">Добрый Лимон-Лайм (ПЭТ) 0,5</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;200 руб&quot;}">200 руб</td>
-        </tr>
-        <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Добрый Лимон-Лайм (ж/б) 0,33 л.&quot;}">Добрый Лимон-Лайм (ж/б) 0,33</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;150 руб&quot;}">150 руб</td>
+          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;200 руб&quot;}">150 руб</td>
         </tr>
         <tr>
           <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Добрый Апельсин (ПЭТ) 0,5 л.&quot;}">Добрый Апельсин (ПЭТ) 0,5</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;200 руб&quot;}">200 руб</td>
-        </tr>
-        <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Добрый Апельсин (ж/б) 0,33 л.&quot;}">Добрый Апельсин (ж/б) 0,33</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;150 руб&quot;}">150 руб</td>
+          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;200 руб&quot;}">150 руб</td>
         </tr>
         <tr>
           <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Круассан «7 days» 65 гр&quot;}">Круассан «7 days» 65 гр</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;80 руб&quot;}">80 руб</td>
+          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;80 руб&quot;}">100 руб</td>
         </tr>
         <tr>
           <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Печенье Бисквитное «Choco Pie»&quot;}">Печенье Бисквитное «Choco Pie»</td>
@@ -492,7 +486,7 @@ export default () =>
         </tr>
         <tr>
           <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Кофе натуральный&quot;}">Кофе натуральный</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;60 руб&quot;}">60 руб</td>
+          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;60 руб&quot;}">100 руб</td>
         </tr>
         <tr>
           <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Молоко 0,2 л.&quot;}">Молоко 0,2</td>
@@ -500,10 +494,6 @@ export default () =>
         </tr>
         <tr>
           <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Сок в ассортименте 0,3 л.&quot;}">Сок в ассортименте 0,3</td>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;140 руб&quot;}">140 руб</td>
-        </tr>
-        <tr>
-          <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ледяная Жемчужина 0,5 л.&quot;}">Ледяная Жемчужина 0,5</td>
           <td data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;140 руб&quot;}">140 руб</td>
         </tr>
       </tbody>

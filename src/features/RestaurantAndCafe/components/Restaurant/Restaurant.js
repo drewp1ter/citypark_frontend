@@ -44,13 +44,13 @@ export default () =>
       </span>
       <span>
         Здесь в любое время суток царит&nbsp;романтическая вечерняя атмосфера&nbsp;
-        City Park.
+        Сити Парк.
       </span>
     </p>
     <p className="justifyleft">
       <span>
         <span>
-          В ресторане City Park вы можете провести свадьбу, банкет и корпоратив.&nbsp;
+          В ресторане Сити Парк вы можете провести свадьбу, банкет и корпоратив.&nbsp;
         </span>
         <br/>
         <br/>
@@ -72,7 +72,7 @@ export default () =>
     </p>
     <p className="justifyleft">
       <strong>
-        На всей территории РГК City Park доступен бесплатный&nbsp;
+        На всей территории РГК Сити Парк доступен бесплатный&nbsp;
         Wi-fi&nbsp;
       </strong>
       <span>
@@ -80,7 +80,7 @@ export default () =>
       </span>
     </p>
     <h4>
-      Забронировать столик или заказать доставку еды в Белореченске можно по телефону: +7-918-311-97-91 или на сайте РГК City Park <a title="City Park Белореченск" href="https://cityparkvip.ru/" target="_blank" rel="noopener noreferrer">www.cityparkvip.ru</a> в разделе "Меню".
+      Забронировать столик или заказать доставку еды в Белореченске можно по телефону: +7-918-311-97-91 или на сайте РГК Сити Парк <a title="Сити Парк Белореченск" href="https://cityparkvip.ru/" target="_blank" rel="noopener noreferrer">www.cityparkvip.ru</a> в разделе "Меню".
     </h4>
     <PhotoGallery
       items={[
