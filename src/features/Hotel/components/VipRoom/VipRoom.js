@@ -28,7 +28,7 @@ const VipRoom = ({ rooms: {vip_room} }) =>
         />
         <a href="/tour/vip_1.html" target="_blank" className="tur_btn" style={{bottom: "5px", left: "5px"}}><span/></a>
       </div>
-      <div className="room_summ" style={{position: "relative"}}><span className="summ">7000</span> ₽/сутки</div>
+      <div className="room_summ" style={{position: "relative"}}><span className="summ">8000</span> ₽/сутки</div>
       <div className="room_empty" style={{position: "relative", float: "left", marginTop: "10px"}}>
         <div className="re_num">{ vip_room ? vip_room : null }</div>
         <div className="re_txt">{freeRoomsText(vip_room)}</div>
@@ -52,7 +52,7 @@ const VipRoom = ({ rooms: {vip_room} }) =>
       <p>• заказ завтрака в номер (стоимость завтрака не входит в стоимость номера);<br/>•&nbsp;заказ еды из ресторана Сити Парк;<br/>•&nbsp;детская кровать до 3-х лет.<br/>•&nbsp;услуги прачечной и глажки (платно).</p>
       <p>&nbsp;</p>
       <h3>Правила размещения:</h3>
-      <p>Номер VIP – не более четырех гостей, в остальные номера – не более двух.<br/>Заселение производится по паспорту или водительскому удостоверению.&nbsp;<br/>Оплатить можно как наличными, так и банковской картой.<br/>За бронирование плата не взимается.<br/><strong>Заезд с животными запрещен.<br/></strong><strong>Курение в помещениях РГК Сити Парк запрещено, штраф 1000 руб. Место для курения есть на каждом этаже.</strong></p>
+      <p>Номер VIP – не более четырех гостей, в остальные номера – не более двух.<br/>Заселение производится по паспорту или водительскому удостоверению.&nbsp;<br/>Оплатить можно как наличными, так и банковской картой.<br/>За бронирование плата не взимается.<br/><strong>Заезд с животными запрещен.<br/></strong></p>
       <p><strong>&nbsp;</strong></p>
       <h4>Забрнировать номер в гостинице Сити Парк можно по телефонам: +7-918-311-97-10, 8-800-100-24-41 (звонок по России бесплатный) или по городскому номеру 8 (86155) 3-30-02.</h4>
       <p><strong>&nbsp;</strong></p>

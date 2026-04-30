@@ -246,7 +246,7 @@ export default () =>
     <p align="CENTER"><span><strong>Приложение № 1</strong></span></p>
     <p align="CENTER"><span>к информации об Исполнитель и о предоставляемых исполнителем гостиничных услугах</span></p>
     <p align="CENTER">&nbsp;</p>
-    <p align="CENTER"><span>Категории номеров и цены 2024г.</span></p>
+    <p align="CENTER"><span>Категории номеров и цены 2026г.</span></p>
     <table width="100%" border="1" cellSpacing="0" cellPadding="4">
       <colgroup>
         <col width="128*" />
@@ -266,7 +266,7 @@ export default () =>
             <p align="LEFT"><span>«Люкс»*</span></p>
           </td>
           <td width="50%">
-            <p align="CENTER"><span>7000</span></p>
+            <p align="CENTER"><span>8000</span></p>
           </td>
         </tr>
         <tr valign="TOP">
@@ -274,7 +274,7 @@ export default () =>
             <p align="LEFT"><span>«Первая категория»* одноместный с двуспальной кроватью</span></p>
           </td>
           <td width="50%">
-            <p align="CENTER"><span>3500</span></p>
+            <p align="CENTER"><span>4000</span></p>
           </td>
         </tr>
         <tr valign="TOP">
@@ -282,7 +282,7 @@ export default () =>
             <p align="LEFT"><span>«Первая категори»* одноместный с двуспальной кроватью и балконом</span></p>
           </td>
           <td width="50%">
-            <p align="CENTER"><span>4000</span></p>
+            <p align="CENTER"><span>4500</span></p>
             <p align="CENTER">&nbsp;</p>
           </td>
         </tr>
@@ -291,7 +291,7 @@ export default () =>
             <p align="LEFT"><span>«Первая категория»* двуместный с двумя односпальными кроватями с возможностью соединения</span></p>
           </td>
           <td width="50%">
-            <p align="CENTER"><span>4000</span></p>
+            <p align="CENTER"><span>4500</span></p>
           </td>
         </tr>
       </tbody>
