@@ -28,7 +28,7 @@ const SingleRoom = ({ rooms: { single_rooms } }) =>
         />
         <a href="/tour/room_1.html" target="_blank" className="tur_btn" style={{bottom: "5px", left: "5px"}}><span/></a>
       </div>
-      <div className="room_summ" style={{position: "relative"}}><span className="summ">2500-3000</span> ₽/сутки</div>
+      <div className="room_summ" style={{position: "relative"}}><span className="summ">4000-4500</span> ₽/сутки</div>
       <div className="room_empty" style={{position: "relative", float: "left", marginTop: "10px"}}>
         <div className="re_num">{ single_rooms ? single_rooms : null }</div>
         <div className="re_txt">{freeRoomsText(single_rooms)}</div>
@@ -40,7 +40,7 @@ const SingleRoom = ({ rooms: { single_rooms } }) =>
       <h3><span>Одноместные номера в гостинице Сити Парк в Белореченске — это отличный выбор для размещения в бизнес-командировке.</span></h3>
       <p><span>&nbsp;</span></p>
       <h3><span>201 — одноместный номер с двуспальной кроватью, с балконом. Площадь 23 кв.м. + балкон 7 кв.м.<br/></span>Стоимость 3000 руб./сутки.</h3>
-      <h3><br/><span>204 — одноместный номер с двуспальной кроватью. Площадь 19 кв.м.&nbsp;<br/>Стоимость 2500 руб./сутки.<br/></span></h3>
+      <h3><br/><span>204 — одноместный номер с двуспальной кроватью. Площадь 19 кв.м.&nbsp;<br/>Стоимость 4000 руб./сутки.<br/></span></h3>
       <p><span>&nbsp;</span></p>
       <p><strong>Общая комплектация номеров:</strong><br/>•&nbsp;сплит-система;<br/>• Smart TV;<br/>•&nbsp;сейф;<br/>•&nbsp;холодильник;<br/>•&nbsp;шкаф-гардероб;<br/>• прикроватные тумбы;&nbsp;<br/>•&nbsp;журнальный столик;<br/>•&nbsp;пуф;<br/>•&nbsp;комод;<br/>•&nbsp;внутренний
         телефон.<br/><br/><strong>Санузел:</strong>&nbsp;душевая кабинка, фен, туалетные принадлежности.</p>
